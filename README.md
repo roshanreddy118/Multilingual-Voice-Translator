@@ -25,6 +25,8 @@ MediaRecorder API
 Fetch API for backend integration
 
 
+
+
 🔧 Backend (Flask)
 
 Features:
@@ -52,6 +54,8 @@ deep_translator
 flask_cors
 
 Python 3.10+
+
+
 
 
 🧠 Future Enhancements
